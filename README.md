@@ -10,4 +10,8 @@ Python software managing and updating relational database in SQLite systems.
 ## Skills:
 SQL: DBMS–SQLite, Data Manipulation
 
-Python: Schema creation, Unit Testing–Pytest, Debugging and Creation of functions
+Python: Schema creation, Unit Testing–Pytest, Debugging, and the Creation of functions
+
+
+## Results:
+Created a seamless program connecting Python software and database information, allowing users to create profiles, place orders, and track order information, while granting employees the ability to manage inventory updates.
